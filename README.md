@@ -100,7 +100,7 @@ sentiment-analysis/
 
 ---
 
-##📌 Future Improvements:
+## 📌 Future Improvements:
 
 - Integrate LSTM/BERT for better accuracy.
 - Real-time sentiment analysis from Twitter API.
