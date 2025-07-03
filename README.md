@@ -107,6 +107,13 @@ sentiment-analysis/
 - Deploy as REST API using Flask/FastAPI
 - Multilingual sentiment analysis
 
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+
 
 
 
