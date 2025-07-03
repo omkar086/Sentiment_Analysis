@@ -91,21 +91,23 @@ sentiment-analysis/
 ---
 
 ## 🧼 Preprocessing Steps:
-<pre lang="markdown">
-  -Lowercasing
-  -Removing punctuation and special characters
-  -Removing stopwords
-  -Tokenization
-  -Lemmatization
-</pre>
+
+- Lowercasing.
+- Removing punctuation and special characters.
+- Removing stopwords
+- Tokenization
+- Lemmatization
+
 ---
 
 ##📌 Future Improvements:
-<pre lang="markdown">
-  -Integrate LSTM/BERT for better accuracy
-  -Real-time sentiment analysis from Twitter API
-  -Multilingual sentiment analysis
-  -Deploy as REST API using Flask/FastAPI
-</pre>
+
+- Integrate LSTM/BERT for better accuracy.
+- Real-time sentiment analysis from Twitter API.
+- Deploy as REST API using Flask/FastAPI
+- Multilingual sentiment analysis
+
+
+
 
 
