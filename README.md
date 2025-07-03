@@ -25,6 +25,7 @@ Sentiment analysis is a sub-field of NLP that determines the emotional tone behi
 ---
 
 ## 📂 Project Structure
+<pre lang="markdown"> ```
 sentiment-analysis/
 │
 ├── data/ # Raw and processed datasets
@@ -38,7 +39,7 @@ sentiment-analysis/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── LICENSE
-
+``` </pre>
 
 ---
 
